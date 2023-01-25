@@ -1,4 +1,4 @@
-Admin Page :
+Laravel Admin Panel :
 
 
 Admin Dashboard :
